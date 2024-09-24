@@ -1,5 +1,4 @@
-# 🚩🚩🚩 Update Auto Bot #MoonBix - Official Binance Exchange Deal 🚩🚩🚩
-
+# Update Auto Bot #MoonBix - Official Binance Exchange Deal
 **Update the auto bot** without the need to keep the browser open. However, it's recommended to use the bot only for secondary accounts.
 
 ## 🔄 How to Use the Moonbix Auto Bot:
